@@ -1,0 +1,6 @@
+{
+  "name": "SiteBuilder Studio",
+  "description": "Criação de site sob medida com base nas suas capturas de tela e especificações de design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
